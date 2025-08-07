@@ -13,7 +13,7 @@ def home():
 def tamil():
     # Dictionary of song name to Cloudinary link
     songs = {
-        "Anu Vidhaitha Boomiyele": "https://res.cloudinary.com/dafvnczuy/video/upload/v1754584117/Vishwaroopam_-_Anu_Vidhaiththa_Boomiyile_Video_Kamal_Haasan_klyebj.mp3",
+        "Vidhai": "https://res.cloudinary.com/dafvnczuy/video/upload/v1754584117/Vishwaroopam_-_Anu_Vidhaiththa_Boomiyile_Video_Kamal_Haasan_klyebj.mp3",
        "Tamil Kuthu songs Playlist 1":"https://res.cloudinary.com/dafvnczuy/video/upload/v1754584832/tamil_kuthu_dance_item_songs_spmh_spstrength_qB1lXRBXmZA_hlliz1.webm",
        "Prabakaran Pera solli":"https://res.cloudinary.com/dafvnczuy/video/upload/v1754585939/Prabhakaran_Peyarai_Solli_C-2g0QfQAAg_aa8gvs.webm",
        "Desame Prabakaran":"https://res.cloudinary.com/dafvnczuy/video/upload/v1754585934/%E0%AE%A4%E0%AF%87%E0%AE%9A%E0%AE%AE%E0%AF%87_%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%B0%E0%AE%A9%E0%AF%8D_-_%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AE%B2%E0%AF%8D_%E0%AE%87%E0%AE%AF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D_%E0%AE%9A_%E0%AE%AE%E0%AF%81%E0%AE%B0%E0%AE%B3%E0%AE%BF_%E0%AE%AE%E0%AE%A9%E0%AF%8B%E0%AE%95%E0%AE%B0%E0%AF%8D_%E0%AE%87%E0%AE%9A%E0%AF%88_%E0%AE%9A._%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AE%B0%E0%AE%A9%E0%AF%8D_lgt5_mhwyiY_txd35r.webm",
